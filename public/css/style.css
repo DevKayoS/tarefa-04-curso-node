@@ -1,0 +1,73 @@
+* {
+  font-family: "Inter";
+  color:aliceblue;
+  margin: 0;
+}
+
+body {
+  background-color: #292929;
+}
+
+main {
+  margin-top: 28px;
+  gap: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  flex-direction: column;
+}
+
+nav {
+  height: 55px;
+  width: full;
+  padding: 12px;
+  background-color: #191919;
+}
+
+nav p {
+  font-size: 30px;
+}
+
+.products {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.list{
+  
+  background-color: #191919;
+  width: 580px;
+  height: 150px;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap:16px;
+
+}
+a {
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color:#191919;
+  padding: 8px;
+  text-decoration: none;
+}
+
+ a:hover{
+  transition:cubic-bezier(0.77, 0, 0.175, 1) ;
+  background-color: #b1b1b1;
+}
+
+.productId {
+  font-size: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+.productId span{
+  color: #b1b1b1;
+}
+

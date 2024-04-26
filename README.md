@@ -6,6 +6,6 @@
 
 3. Utilizar o recurso de layout do handlebars para a base do html (x)
 
-4. Adicione CSS e modifique alguns estilos a sua escolha ()
+4. Adicione CSS e modifique alguns estilos a sua escolha (x)
 
-5. Os produtos precisam ter um link, que exibe as páginas individuais de cada um, dica: URL dinâmica do Express, aproveite o array da home ()
+5. Os produtos precisam ter um link, que exibe as páginas individuais de cada um, dica: URL dinâmica do Express, aproveite o array da home (x)
